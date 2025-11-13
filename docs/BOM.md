@@ -54,7 +54,7 @@ With only the components above, you can assemble the **mobile base** and control
 
 directly from your **PC**, without installing a single-board computer on the robot.
 
-We will cover the specifics in the assembly section.
+We will cover the specifics in the software setup section.
 
 Effect after assembly:
 
@@ -66,7 +66,7 @@ If you prefer the base to operate as an **independent host system** (Wi‑Fi, un
 
 | Item | Model / Notes | Qty | Unit Cost (US) | Buy (US) | Unit Cost (CN) | Buy (CN) |
 |------|---------------|-----|----------------|----------|----------------|----------|
-| Compute board | Raspberry Pi 5 (4GB/8GB) | 1 | — | Amazon | ~¥680 | [taobao](https://item.taobao.com/item.htm?id=688878446695) |
+| Compute board | Raspberry Pi 5 (4GB/8GB) | 1 | — | Amazon | ¥600 | [taobao](https://item.taobao.com/item.htm?id=688878446695) |
 | DC converter | 12V → 5V / 5A buck converter | 1 | — | Amazon | ¥64 | [taobao](https://item.taobao.com/item.htm?id=800698078303) |
 | Monitor | 7-inch HD IPS HDMI interface + touch + Type C power supply | 1 | — | Amazon | ¥291 | [taobao](https://item.taobao.com/item.htm?id=592070943040) |
 

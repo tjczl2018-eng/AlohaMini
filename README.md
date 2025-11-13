@@ -43,11 +43,11 @@ Note:
 
 Start building and running AlohaMini:
 
-1. **Hardware acquisition** — purchase all electronic and mechanical components  
-   See **[BOM & Hardware Guide & 3D-Print](docs/BOM.md)**
+1. **Hardware acquisition** — Purchase components and 3D print parts  
+   See **[BOM & 3D-Print](docs/BOM.md)**
 
 2. **Assembly** — build the robot in ~60 minutes (SO-ARM pre-assembled) 
-   See **[assembly guide](docs/assembly.md)**
+   See **[assembly guide](docs/hardware_assembly.md)**
 
 3. **Software setup & teleoperation** — install, connect, and control the robot  
    See **[software guide](docs/software_setup.md)**
