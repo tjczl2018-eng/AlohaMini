@@ -17,7 +17,7 @@ Built for embodied AI research and real-world manipulation. Assemble at home in 
 ## 📸 Gallery
 
 <p align="center">
-  <img src="docs/media/alohamini_banner3.png" width="100%"/>
+  <img src="docs/media/alohamini_git.png" width="100%"/>
 </p>
 
 
