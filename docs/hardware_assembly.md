@@ -57,7 +57,7 @@ Insert the bearings (12x18x4) into the dowel pin and shaft sleeves.
 10. Install M3 heat-set inserts into the side plates.
 <img src="./media/assembly/17.jpg" width="400">
 
-11. Assemble the main posts like building blocks - there are 4 in total. Use double-sided tape or epoxy resin to bond the parts together.
+11. Assemble the main posts like building blocks - there are 4 in total. Use epoxy resin or double-sided tape to bond the parts together.
 <img src="./media/assembly/18.jpg" width="400">
 
 12. Install the lift axis. Prepare the materials according to the BOM list.
@@ -76,7 +76,7 @@ Insert the bearings (12x18x4) into the dowel pin and shaft sleeves.
 17. Install the T-bracket.
 <img src="./media/assembly/24.jpg" width="400">
 
-18. Secure it with double-sided tape or epoxy resin.
+18. Secure it with epoxy resin.
 <img src="./media/assembly/25.jpg" width="400">
 <img src="./media/assembly/26.jpg" width="400">
 <img src="./media/assembly/27.jpg" width="400">
