@@ -52,6 +52,8 @@ Follow the servo order as shown in the image.
 Insert the bearings (12x18x4) into the dowel pin and shaft sleeves.
 <img src="./media/assembly/14.jpg" width="400">
 <img src="./media/assembly/15.jpg" width="400">
+
+Install the M4 heat-set inserts into the Chassis_Bearing_Cover, then fasten it using M4x12 screws.
 <img src="./media/assembly/16.jpg" width="400">
 
 10. Install M3 heat-set inserts into the side plates.
