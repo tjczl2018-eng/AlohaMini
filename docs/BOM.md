@@ -30,7 +30,7 @@ On AlohaMini, the Host side consists of a PC workstation and leader arms. VR con
 | M3x5x4 heat-set insert | Total 36 pcs (Servo Mount×24, Side Panel×12) | 36 | — | Amazon | ¥5 | [taobao](https://item.taobao.com/item.htm?id=809241671998) |
 | M4×12 hex socket screw | Total 20 pcs (Bearing Cover×12, Z-axis Servo Mount×8) | 20 | — | Amazon | — | — |
 | M4x6x5 heat-set insert | For OB_Chassis_Bearing_Cover.stl | 12 | — | Amazon | ¥4 | [taobao](https://item.taobao.com/item.htm?id=809241671998) |
-| Adhesive | Double-sided tape / epoxy — cable retention & structural bonding | 1 | — | Amazon | ¥12 | [jd](https://item.jd.com/100141557259.html) |
+| Adhesive | Epoxy (strongly recommended) / double-sided tape — cable retention & structural bonding | 1 | — | Amazon | ¥12 | [jd](https://item.jd.com/100141557259.html) |
 | Servo extension cable | SCS 3-pin, 90 cm | 2 | — | [Alibaba](https://www.alibaba.com/product-detail/3P-5264-Interface-Bus-Actuator-Connection_1601635790774.html?spm=a2747.product_manager.0.0.5a3e71d2sTo6Ho) | ¥3 | [taobao](https://item.taobao.com/item.htm?id=616460581906) |
 | Battery | 12 V Li-ion pack with 5521 barrel jack (male & female); one pack for the Raspberry Pi 5, the other for the mobile base and follower arms.| 2 | $43 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?th=1) | ¥130 | [taobao](https://item.taobao.com/item.htm?id=890828103056) |
 | USB Type-C cable | Only for testing the mobile base | 1 | $10 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | ¥20 | [tmall](https://detail.tmall.com/item.htm?id=754024805047) |
