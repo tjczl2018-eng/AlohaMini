@@ -63,7 +63,7 @@ Start building and running AlohaMini:
    See **[assembly guide](docs/hardware_assembly.md)**
 
 1. **Software setup & teleoperation** — install, connect, and control the robot  
-   See **[software guide](docs/software_setup.md)**
+   See **[software guide](software)**
 
 
 
