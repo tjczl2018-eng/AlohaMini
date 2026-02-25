@@ -1,5 +1,5 @@
 # Pi-0.5 for Alohamini
-<img src="examples\pi0.5_openpi\video\deploy.gif" width="720">
+<img src="video\deploy.gif" width="720">
 
 This tutorial makes modifications based on the **openpi** project and the **lerobot_alohamini** project in order to perform fine-tuning training and real-world deployment.
 
