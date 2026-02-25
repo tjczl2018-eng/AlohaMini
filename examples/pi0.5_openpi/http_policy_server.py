@@ -3,9 +3,6 @@
 This module provides a FastAPI-based HTTP server for running policy inference,
 as an alternative to the WebSocket-based server. This makes it easier to integrate
 with standard HTTP clients and tools.
-
-
-
 """
 
 import base64
