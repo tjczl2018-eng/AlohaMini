@@ -1,6 +1,5 @@
 import dataclasses
 from typing import ClassVar
-
 import einops
 import numpy as np
 
